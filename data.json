@@ -16,9 +16,9 @@
   {
     "region": "Brasil",
     "category": "Brasil - Comunidades, Fóruns & Build in Public",
-    "name": "Clube Micro SaaS",
-    "url": "https://clubemicrosaas.com/",
-    "desc": "Hub e comunidade para empreendedores focados em modelos recorrentes de software."
+    "name": "SaaSholic",
+    "url": "https://saasholic.com/",
+    "desc": "Portal, newsletter e comunidade brasileira de referência sobre métricas, validação e crescimento de SaaS."
   },
   {
     "region": "Brasil",
@@ -65,9 +65,9 @@
   {
     "region": "Brasil",
     "category": "Brasil - Comunidades, Fóruns & Build in Public",
-    "name": "Product Arena",
-    "url": "https://productarena.com.br/",
-    "desc": "Espaço e comunidade voltada a profissionais de Product Management e fundadores de produtos digitais."
+    "name": "Comunidade PM3",
+    "url": "https://www.cursospm3.com.br/",
+    "desc": "A maior escola e comunidade voltada a gestores de produto e fundadores digitais no Brasil."
   },
   {
     "region": "Brasil",
@@ -79,9 +79,9 @@
   {
     "region": "Brasil",
     "category": "Brasil - Comunidades, Fóruns & Build in Public",
-    "name": "Tech Ladies Brasil",
-    "url": "https://techladies.com.br/",
-    "desc": "Rede de mulheres na tecnologia e liderança de startups."
+    "name": "WoMakersCode",
+    "url": "https://womakerscode.org/",
+    "desc": "A maior comunidade da América Latina voltada ao protagonismo e capacitação de mulheres na tecnologia."
   },
   {
     "region": "Brasil",
@@ -184,9 +184,9 @@
   {
     "region": "Brasil",
     "category": "Brasil - Diretórios de Startups, Software & Plataformas",
-    "name": "StartupBase (Abstartups)",
-    "url": "https://startupbase.com.br/",
-    "desc": "O banco de dados oficial da Associação Brasileira de Startups. Indispensável para o mapeamento da sua empresa no cenário nacional."
+    "name": "Abstartups",
+    "url": "https://abstartups.com.br/",
+    "desc": "Portal oficial da Associação Brasileira de Startups, com mapeamentos de ecossistema e programas de conexão."
   },
   {
     "region": "Brasil",
@@ -198,9 +198,9 @@
   {
     "region": "Brasil",
     "category": "Brasil - Diretórios de Startups, Software & Plataformas",
-    "name": "Observatório Sebrae Startups",
-    "url": "https://observatorio.sebraestartups.com.br/",
-    "desc": "Mapeamento detalhado e base pública de dados do ecossistema de negócios inovadores do Brasil."
+    "name": "Sebrae Startups",
+    "url": "https://sebraestartups.com.br/",
+    "desc": "Plataforma oficial que agrega iniciativas, programas de aceleração e vitrine de startups do Sebrae."
   },
   {
     "region": "Brasil",
@@ -227,8 +227,8 @@
     "region": "Brasil",
     "category": "Brasil - Diretórios de Startups, Software & Plataformas",
     "name": "100 Open Startups",
-    "url": "https://100openstartups.com.br/",
-    "desc": "Plataforma pioneira em inovação aberta com o mais respeitado ranking corporativo de startups do país."
+    "url": "https://www.openstartups.net/",
+    "desc": "Plataforma de inovação aberta e o principal ranking corporativo de startups do Brasil."
   },
   {
     "region": "Brasil",
@@ -261,9 +261,9 @@
   {
     "region": "Brasil",
     "category": "Brasil - Diretórios de Startups, Software & Plataformas",
-    "name": "Software Advice Brasil",
-    "url": "https://www.softwareadvice.com.br/",
-    "desc": "Plataforma de consultoria e diretório de softwares empresariais com presença no Brasil."
+    "name": "Capterra Brasil",
+    "url": "https://www.capterra.com.br/",
+    "desc": "Versão brasileira do diretório do Gartner para listagem de softwares e coleta de avaliações."
   },
   {
     "region": "Brasil",
@@ -303,16 +303,16 @@
   {
     "region": "Brasil",
     "category": "Brasil - Diretórios de Startups, Software & Plataformas",
-    "name": "Conexão Startup",
-    "url": "https://conexaostartup.com.br/",
-    "desc": "Portal de notícias, divulgação e cadastramento de novas soluções tecnológicas."
+    "name": "Startup Scanner",
+    "url": "https://startupscanner.com/",
+    "desc": "Plataforma de inteligência da Liga Ventures que mapeia e categoriza startups ativas em todo o país."
   },
   {
     "region": "Brasil",
     "category": "Brasil - Diretórios de Startups, Software & Plataformas",
-    "name": "TechMall",
-    "url": "https://techmall.com.br/",
-    "desc": "Aceleradora e vitrine de soluções corporativas e escaláveis."
+    "name": "Inovabra Habitat",
+    "url": "https://www.inovabra.com.br/",
+    "desc": "Espaço de coinovação do Bradesco para conexão de startups em estágio de escala com o mercado corporativo."
   },
   {
     "region": "Brasil",
@@ -331,23 +331,23 @@
   {
     "region": "Brasil",
     "category": "Brasil - Diretórios de Startups, Software & Plataformas",
-    "name": "Pitchfy",
-    "url": "https://pitchfy.com/",
-    "desc": "Plataforma para estruturação e exibição de pitches de novos negócios."
+    "name": "Captable",
+    "url": "https://captable.com.br/",
+    "desc": "A maior plataforma brasileira de investimento coletivo e exibição de pitches de novas startups."
   },
   {
     "region": "Brasil",
     "category": "Brasil - Diretórios de Startups, Software & Plataformas",
-    "name": "Olist Store",
-    "url": "https://olist.com/pt-br/produtos/olist-store/",
-    "desc": "Para quem vende produtos físicos e deseja alcançar os maiores marketplaces do país de uma só vez."
+    "name": "Olist",
+    "url": "https://olist.com/",
+    "desc": "Plataforma para conectar produtos e marcas digitais aos maiores marketplaces do país."
   },
   {
     "region": "Brasil",
     "category": "Brasil - Diretórios de Startups, Software & Plataformas",
     "name": "Elo7",
     "url": "https://www.elo7.com.br/",
-    "desc": "O maior marketplace brasileiro voltado a produtos autorais, criativos e artesanais."
+    "desc": "O maior marketplace brasileiro para produtos autorais, criativos e digitais."
   },
   {
     "region": "Brasil",
@@ -387,9 +387,9 @@
   {
     "region": "Brasil",
     "category": "Brasil - Ecossistemas Regionais & Polos de Inovação",
-    "name": "San Pedro Valley (Belo Horizonte, MG)",
-    "url": "http://sanpedrovalley.org/",
-    "desc": "Um dos ecossistemas de startups mais célebres do país, com forte comunidade de fundadores."
+    "name": "San Pedro Valley",
+    "url": "https://www.sanpedrovalley.com.br/",
+    "desc": "Comunidade de startups e empreendedores tecnológicos de Belo Horizonte."
   },
   {
     "region": "Brasil",
@@ -415,23 +415,23 @@
   {
     "region": "Brasil",
     "category": "Brasil - Ecossistemas Regionais & Polos de Inovação",
-    "name": "Campinas Tech (Campinas, SP)",
-    "url": "https://campinastech.com.br/",
-    "desc": "Polo de startups e tecnologia do interior paulista, ao redor da Unicamp."
+    "name": "Campinas Tech",
+    "url": "https://campinas.tech/",
+    "desc": "Polo de startups e tecnologia do interior paulista."
   },
   {
     "region": "Brasil",
     "category": "Brasil - Ecossistemas Regionais & Polos de Inovação",
-    "name": "Vale do Pinhão (Curitiba, PR)",
-    "url": "https://www.valedopinhao.com.br/",
-    "desc": "Movimento de cidades inteligentes e inovação de Curitiba com programas de aceleração locais."
+    "name": "Vale do Pinhão",
+    "url": "https://agenciadecuritiba.com.br/vale-do-pinhao/",
+    "desc": "Ecossistema de inovação e cidades inteligentes da Agência Curitiba de Desenvolvimento."
   },
   {
     "region": "Brasil",
     "category": "Brasil - Ecossistemas Regionais & Polos de Inovação",
-    "name": "Cariocas Startups (Rio de Janeiro, RJ)",
-    "url": "https://www.cariocas.rio/",
-    "desc": "Comunidade que integra startups, hubs e investidores do estado do Rio de Janeiro."
+    "name": "Rio Soft",
+    "url": "https://riosoft.org.br/",
+    "desc": "Polo de tecnologia, negócios e inovação digital do Rio de Janeiro."
   },
   {
     "region": "Brasil",
@@ -478,9 +478,9 @@
   {
     "region": "Brasil",
     "category": "Brasil - Ecossistemas Regionais & Polos de Inovação",
-    "name": "Parque Tecnológico da Bahia (Salvador, BA)",
-    "url": "https://parquetecnologico.ba.gov.br/",
-    "desc": "Ambiente de conexão para empreendimentos de base tecnológica na Bahia."
+    "name": "Parque Tecnológico da Bahia",
+    "url": "http://www.parquetecnologico.ba.gov.br/",
+    "desc": "Ambiente de conexão e desenvolvimento para empreendimentos de base tecnológica na Bahia."
   },
   {
     "region": "Brasil",
@@ -499,9 +499,9 @@
   {
     "region": "Brasil",
     "category": "Brasil - Ecossistemas Regionais & Polos de Inovação",
-    "name": "Google for Startups Campus São Paulo",
-    "url": "https://startup.google.com/intl/pt-br/campuses/sao-paulo/",
-    "desc": "Espaço físico e comunidade do Google em SP com programas e mentorias para startups."
+    "name": "Google for Startups Brasil",
+    "url": "https://startup.google.com/intl/pt-br/",
+    "desc": "Programas, mentorias e iniciativas do Google para alavancar startups brasileiras."
   },
   {
     "region": "Brasil",
@@ -513,9 +513,9 @@
   {
     "region": "Brasil",
     "category": "Brasil - Ecossistemas Regionais & Polos de Inovação",
-    "name": "WeWork Labs Brasil",
-    "url": "https://www.wework.com/pt-BR/labs",
-    "desc": "Plataforma de suporte e networking para membros dos espaços WeWork no Brasil."
+    "name": "Distrito for Startups",
+    "url": "https://distrito.me/",
+    "desc": "Comunidade e ecossistema de inovação aberta com programas para startups em desenvolvimento."
   },
   {
     "region": "Brasil",
@@ -562,9 +562,9 @@
   {
     "region": "Brasil",
     "category": "Brasil - Imprensa, Mídia Especializada & Portais de Notícias",
-    "name": "Exame Negócios & Startups",
-    "url": "https://exame.com/negocios/startups/",
-    "desc": "Cobertura de rodadas de investimento, liderança e inovação na revista Exame."
+    "name": "Exame Startups",
+    "url": "https://exame.com/noticias-sobre/startups/",
+    "desc": "Cobertura diária de rodadas de investimento, liderança e inovação na revista Exame."
   },
   {
     "region": "Brasil",
@@ -660,9 +660,9 @@
   {
     "region": "Brasil",
     "category": "Brasil - Imprensa, Mídia Especializada & Portais de Notícias",
-    "name": "Valor Econômico Startups",
-    "url": "https://valor.globo.com/startups/",
-    "desc": "Seção dedicada a negócios inovadores no maior jornal de economia e finanças do país."
+    "name": "Valor Empresas",
+    "url": "https://valor.globo.com/empresas/",
+    "desc": "Seção dedicada a negócios, fusões e startups no maior jornal de economia do país."
   },
   {
     "region": "Brasil",
@@ -689,7 +689,7 @@
     "region": "Brasil",
     "category": "Brasil - Imprensa, Mídia Especializada & Portais de Notícias",
     "name": "Portal ERP",
-    "url": "https://portalerp.com/)",
+    "url": "https://portalerp.com/",
     "desc": "Conteúdo e cobertura especializada no mercado de softwares de gestão empresarial."
   },
   {
@@ -766,8 +766,8 @@
     "region": "Brasil",
     "category": "Brasil - Aceleradoras, Redes de Anjos & Vitrines",
     "name": "Iporanga Ventures",
-    "url": "https://iporangaventures.com/",
-    "desc": "Fundo focado em rodadas Seed e Pré-Seed de empresas de base tecnológica."
+    "url": "https://iporanga.ventures/",
+    "desc": "Fundo de venture capital focado em rodadas Seed e Pré-Seed de empresas de base tecnológica."
   },
   {
     "region": "Brasil",
@@ -793,9 +793,9 @@
   {
     "region": "Brasil",
     "category": "Brasil - Aceleradoras, Redes de Anjos & Vitrines",
-    "name": "Sevna Startups",
-    "url": "https://sevna.com.br/",
-    "desc": "Aceleradora do interior paulista especializada em modelos B2B escaláveis."
+    "name": "KPTL",
+    "url": "https://kptl.com.br/",
+    "desc": "Uma das maiores gestoras de fundos de Venture Capital e investimentos de tecnologia do Brasil."
   },
   {
     "region": "Brasil",
@@ -814,9 +814,9 @@
   {
     "region": "Brasil",
     "category": "Brasil - Aceleradoras, Redes de Anjos & Vitrines",
-    "name": "Wayra Brasil",
-    "url": "https://www.wayra.com/brasil",
-    "desc": "Braço de inovação aberta e investimento corporativo da Vivo/Telefónica no Brasil."
+    "name": "Wayra",
+    "url": "https://www.wayra.com/",
+    "desc": "Braço global de investimento e conexão corporativa da Vivo/Telefónica para startups."
   },
   {
     "region": "Portugal",
@@ -857,8 +857,8 @@
     "region": "Portugal",
     "category": "Portugal - Plataformas Oficiais & Diretórios Centrais",
     "name": "StartupBlink Portugal",
-    "url": "https://www.startupblink.com/startups/portugal",
-    "desc": "Ranking e mapa global de ecossistemas com a listagem das principais startups de Lisboa, Porto e demais cidades."
+    "url": "https://www.startupblink.com/ecosystem/portugal",
+    "desc": "Mapeamento e ranking global das startups e ecossistemas de Lisboa, Porto e demais cidades."
   },
   {
     "region": "Portugal",
@@ -940,9 +940,9 @@
   {
     "region": "Portugal",
     "category": "Portugal - Comunidades, Fóruns & Redes de Empreendedores",
-    "name": "Geek Girls Portugal (G2PT)",
-    "url": "https://geekgirls.pt/",
-    "desc": "Primeira comunidade portuguesa dedicada a aproximar e capacitar mulheres nas áreas de tecnologia."
+    "name": "Geek Girls Portugal",
+    "url": "https://pt.linkedin.com/company/geekgirlspt",
+    "desc": "Comunidade dedicada a aproximar e capacitar mulheres nas áreas de tecnologia em Portugal."
   },
   {
     "region": "Portugal",
@@ -968,16 +968,16 @@
   {
     "region": "Portugal",
     "category": "Portugal - Comunidades, Fóruns & Redes de Empreendedores",
-    "name": "Netmentora Lisboa",
-    "url": "https://netmentora.org/lisboa/",
-    "desc": "Rede de líderes empresariais voluntários que oferecem mentoria gratuita e acompanhamento a novas empresas."
+    "name": "Netmentora",
+    "url": "https://netmentora.org/",
+    "desc": "Rede de líderes empresariais voluntários que oferecem mentoria e suporte a novos empreendedores."
   },
   {
     "region": "Portugal",
     "category": "Portugal - Comunidades, Fóruns & Redes de Empreendedores",
     "name": "Endeavor Portugal",
-    "url": "https://endeavor.org/portugal/",
-    "desc": "Rede global voltada a apoiar empreendedores de alto impacto e scale-ups com potencial de expansão internacional."
+    "url": "https://endeavor.org/",
+    "desc": "Rede global de empreendedores de alto impacto e scale-ups em Portugal."
   },
   {
     "region": "Portugal",
@@ -1024,9 +1024,9 @@
   {
     "region": "Portugal",
     "category": "Portugal - Hubs de Inovação, Incubadoras & Aceleradoras",
-    "name": "Startup Lisboa",
-    "url": "https://www.startuplisboa.com/",
-    "desc": "Incubadora histórica no centro da capital com forte rede de mentores e parceiros corporativos."
+    "name": "Unicorn Factory Lisboa",
+    "url": "https://unicornfactorylisboa.com/",
+    "desc": "O principal polo de Lisboa para incubação e aceleração de startups e scaleups."
   },
   {
     "region": "Portugal",
@@ -1101,9 +1101,9 @@
   {
     "region": "Portugal",
     "category": "Portugal - Hubs de Inovação, Incubadoras & Aceleradoras",
-    "name": "Startup Sintra",
-    "url": "https://startupsintra.pt/",
-    "desc": "Incubadora municipal focada no apoio a novos negócios da região de Sintra."
+    "name": "Casa do Impacto",
+    "url": "https://casadoimpacto.scml.pt/",
+    "desc": "O maior hub de empreendedorismo de impacto social e ambiental de Portugal."
   },
   {
     "region": "Portugal",
@@ -1129,23 +1129,23 @@
   {
     "region": "Portugal",
     "category": "Portugal - Hubs de Inovação, Incubadoras & Aceleradoras",
-    "name": "Madan Parque (Caparica)",
-    "url": "https://madanparque.pt/",
-    "desc": "Parque de ciência e tecnologia associado à FCT NOVA, na margem sul do Tejo."
+    "name": "Madan Parque",
+    "url": "https://www.madanparque.pt/",
+    "desc": "Parque de ciência e tecnologia associado à FCT NOVA, polo de inovação em Almada/Caparica."
   },
   {
     "region": "Portugal",
     "category": "Portugal - Hubs de Inovação, Incubadoras & Aceleradoras",
-    "name": "Parkurbis (Covilhã)",
-    "url": "https://parkurbis.pt/",
+    "name": "Parkurbis",
+    "url": "https://www.parkurbis.pt/",
     "desc": "Parque de ciência e tecnologia da região da Cova da Beira."
   },
   {
     "region": "Portugal",
     "category": "Portugal - Hubs de Inovação, Incubadoras & Aceleradoras",
-    "name": "PCI Creative Science Park (Aveiro)",
-    "url": "https://creativesciencepark.pt/",
-    "desc": "Ambiente de inovação em estreita colaboração com a Universidade de Aveiro."
+    "name": "PCI Creative Science Park",
+    "url": "https://www.pci-creative-science-park.com/",
+    "desc": "Parque de inovação e ciência em estreita colaboração com a Universidade de Aveiro."
   },
   {
     "region": "Portugal",
@@ -1297,9 +1297,9 @@
   {
     "region": "Portugal",
     "category": "Portugal - Imprensa, Mídia Especializada & Notícias Tech",
-    "name": "B!T Magazine",
-    "url": "https://www.bit.pt/",
-    "desc": "Noticiário sobre tecnologias de informação aplicadas ao mundo empresarial."
+    "name": "Jornal Económico",
+    "url": "https://jornaleconomico.sapo.pt/",
+    "desc": "Jornal diário de referência com ampla cobertura de startups, venture capital e negócios em Portugal."
   },
   {
     "region": "Portugal",
@@ -1332,9 +1332,9 @@
   {
     "region": "Portugal",
     "category": "Portugal - Eventos, Cimeiras & Mostras de Tecnologia",
-    "name": "SIM Conference",
-    "url": "https://simconference.com/",
-    "desc": "Grande conferência realizada no Porto com foco direto no *matchmaking* entre fundadores e investidores internacionais."
+    "name": "Portugal Tech Week",
+    "url": "https://portugaltechweek.com/",
+    "desc": "Movimento que reúne centenas de eventos de inovação, conferências e tecnologia por todo o país."
   },
   {
     "region": "Portugal",
@@ -1500,9 +1500,9 @@
   {
     "region": "Internacional",
     "category": "Internacional - Websites & Diretórios",
-    "name": "All Startups",
-    "url": "https://www.allstartups.info/Startups/Submit",
-    "desc": ""
+    "name": "BetaList",
+    "url": "https://betalist.com/",
+    "desc": "A principal plataforma mundial para submissão e descoberta de novas startups em fase inicial e beta."
   },
   {
     "region": "Internacional",
@@ -1542,9 +1542,9 @@
   {
     "region": "Internacional",
     "category": "Internacional - Websites & Diretórios",
-    "name": "Appoid",
-    "url": "https://appiod.com/submit-app-for-review/",
-    "desc": ""
+    "name": "Theres An AI For That",
+    "url": "https://theresanaiforthat.com/",
+    "desc": "O maior agregador e diretório mundial de aplicativos e ferramentas de inteligência artificial."
   },
   {
     "region": "Internacional",
@@ -1556,23 +1556,23 @@
   {
     "region": "Internacional",
     "category": "Internacional - Websites & Diretórios",
-    "name": "Apps Listo",
-    "url": "https://appslisto.com/submit-your-app/",
-    "desc": ""
+    "name": "Toolify",
+    "url": "https://www.toolify.ai/",
+    "desc": "Diretório global de ferramentas de software e soluções com inteligência artificial."
   },
   {
     "region": "Internacional",
     "category": "Internacional - Websites & Diretórios",
-    "name": "Apps Mamma",
-    "url": "https://appsmamma.com/submit-your-app/",
-    "desc": ""
+    "name": "Dang.ai",
+    "url": "https://dang.ai/",
+    "desc": "Diretório para exibição e promoção de ferramentas tecnológicas e novos softwares."
   },
   {
     "region": "Internacional",
     "category": "Internacional - Websites & Diretórios",
-    "name": "AppsThunder",
-    "url": "https://appsthunder.com/submit-your-app/",
-    "desc": ""
+    "name": "Futurepedia",
+    "url": "https://www.futurepedia.io/",
+    "desc": "Diretório de referência mundial para descoberta e listagem de novos aplicativos inteligentes."
   },
   {
     "region": "Internacional",
@@ -1654,9 +1654,9 @@
   {
     "region": "Internacional",
     "category": "Internacional - Websites & Diretórios",
-    "name": "eBool",
-    "url": "https://www.ebool.com/submit",
-    "desc": ""
+    "name": "Devpost",
+    "url": "https://devpost.com/",
+    "desc": "A maior plataforma de exibição de projetos, hackathons e produtos de software do mundo."
   },
   {
     "region": "Internacional",
@@ -1717,9 +1717,9 @@
   {
     "region": "Internacional",
     "category": "Internacional - Websites & Diretórios",
-    "name": "Killer Startups",
-    "url": "https://killerstartups.com/submit-startup/",
-    "desc": ""
+    "name": "Microns",
+    "url": "https://www.microns.io/",
+    "desc": "Comunidade e mercado para descobrir, listar e adquirir projetos de micro-SaaS."
   },
   {
     "region": "Internacional",
@@ -1731,9 +1731,9 @@
   {
     "region": "Internacional",
     "category": "Internacional - Websites & Diretórios",
-    "name": "Launched",
-    "url": "https://launched.io/SubmitStartup",
-    "desc": ""
+    "name": "Uneed",
+    "url": "https://www.uneed.best/",
+    "desc": "Diretório e plataforma moderna de lançamento diário de ferramentas e produtos digitais."
   },
   {
     "region": "Internacional",
@@ -1752,9 +1752,9 @@
   {
     "region": "Internacional",
     "category": "Internacional - Websites & Diretórios",
-    "name": "Loop",
-    "url": "https://app.loopinput.com/",
-    "desc": ""
+    "name": "Fazier",
+    "url": "https://fazier.com/",
+    "desc": "Comunidade e vitrine aberta para lançamento e votação de produtos tecnológicos inovadores."
   },
   {
     "region": "Internacional",
@@ -1822,9 +1822,9 @@
   {
     "region": "Internacional",
     "category": "Internacional - Websites & Diretórios",
-    "name": "SaasRow",
-    "url": "https://saasrow.com/",
-    "desc": ""
+    "name": "SaaSHub",
+    "url": "https://www.saashub.com/",
+    "desc": "Plataforma independente para descoberta e avaliação comparativa de soluções SaaS."
   },
   {
     "region": "Internacional",
@@ -1899,9 +1899,9 @@
   {
     "region": "Internacional",
     "category": "Internacional - Websites & Diretórios",
-    "name": "Startup 88",
-    "url": "https://startup88.com/",
-    "desc": ""
+    "name": "PitchGround",
+    "url": "https://pitchground.com/",
+    "desc": "Plataforma de lançamento para startups de software encontrarem seus primeiros clientes."
   },
   {
     "region": "Internacional",
@@ -2004,16 +2004,16 @@
   {
     "region": "Internacional",
     "category": "Internacional - Websites & Diretórios",
-    "name": "Tech Pluto",
-    "url": "https://www.techpluto.com/submit-a-startup/",
-    "desc": ""
+    "name": "LaunchList",
+    "url": "https://launchlist.com/",
+    "desc": "Plataforma para divulgar lançamentos de produtos e criar listas de espera para early access."
   },
   {
     "region": "Internacional",
     "category": "Internacional - Websites & Diretórios",
-    "name": "Tiny Launch",
-    "url": "https://www.tinylaunch.com",
-    "desc": ""
+    "name": "AppSumo",
+    "url": "https://appsumo.com/",
+    "desc": "O maior marketplace mundial para lançamento e aquisição de early adopters para soluções de software."
   },
   {
     "region": "Internacional",
@@ -2039,9 +2039,9 @@
   {
     "region": "Internacional",
     "category": "Internacional - Websites & Diretórios",
-    "name": "Website Hunt",
-    "url": "https://www.websitehunt.co",
-    "desc": ""
+    "name": "Indie Hackers Products",
+    "url": "https://www.indiehackers.com/products",
+    "desc": "Diretório oficial do Indie Hackers para cadastrar produtos e documentar métricas em público."
   },
   {
     "region": "Internacional",
