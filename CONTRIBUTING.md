@@ -26,9 +26,8 @@ Para mantermos a alta qualidade da curadoria, links sugeridos devem atender aos 
    git checkout -b add-nome-da-plataforma
    ```
 4. **Edite o arquivo `README.md`**:
-   - Siga o padrão dos itens existentes:
      ```markdown
-     * **[Nome da Plataforma](https://url-do-site.com/)** - Breve descrição objetiva de uma frase explicando o que é a plataforma e como ajuda na divulgação.
+     * <a href="https://url-do-site.com/" target="_blank" rel="noopener noreferrer"><strong>Nome da Plataforma</strong></a> - Breve descrição objetiva de uma frase explicando o que é a plataforma e como ajuda na divulgação.
      ```
 5. **Faça o Commit** das suas alterações com uma mensagem clara:
    ```bash
