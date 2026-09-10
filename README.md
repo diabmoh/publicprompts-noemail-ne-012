@@ -3,9 +3,12 @@
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Status](https://img.shields.io/badge/Status-Ativo%20%26%20Atualizado-blue.svg)](#)
+[![Web App](https://img.shields.io/badge/Versão%20Web-Abrir%20em%20Nova%20Aba-indigo.svg)](https://lucasrafaldini.github.io/mostre-sua-empresa/)
 
-> **O guia definitivo e colaborativo com os melhores lugares, diretórios, comunidades, fóruns e portais de mídia para divulgar a sua startup, micro-SaaS, produto digital ou projeto no Brasil 🇧🇷, em Portugal 🇵🇹 e Internacionalmente 🌎 (em inglês).**
+> 🌐 **Prefere navegar com links abrindo automaticamente em nova aba e busca instantânea?**  
+> Acesse o site oficial do projeto: **[lucasrafaldini.github.io/mostre-sua-empresa](https://lucasrafaldini.github.io/mostre-sua-empresa/)** 🚀
+> 
+> *(Nota sobre o GitHub: por padrão de segurança, o GitHub impede que links no Markdown forcem nova aba. Ao navegar aqui pelo README, você também pode segurar `Cmd + Clique` no Mac ou `Ctrl + Clique` no Windows/Linux).*
 
 ---
 
