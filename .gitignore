@@ -1,0 +1,20 @@
+# macOS system and AppleDouble metadata files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+*._*
+.Spotlight-V100
+.Trashes
+Icon
+
+# Windows & Linux thumbnails
+Thumbs.db
+ehthumbs.db
+
+# Editor directories and temporary files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
