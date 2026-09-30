@@ -2,6 +2,7 @@
 
 # Mostre Sua Empresa 🚀
 
+<a href="https://hacktoberfest.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Hacktoberfest-2026-ED5C9B?style=flat-square&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest 2026"></a>
 <a href="https://awesome.re" target="_blank" rel="noopener noreferrer"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
 <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
 <a href="https://github.com/lucasrafaldini/mostre-sua-empresa/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>

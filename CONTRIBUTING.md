@@ -1,8 +1,25 @@
-# Guia de Contribuição 🤝
+# Guia de Contribuição 🤝 (Hacktoberfest 2026 Ready 🎃)
 
 Ficamos muito felizes pelo seu interesse em contribuir com o **Mostre Sua Empresa**! Este repositório é colaborativo e visa ajudar a comunidade de fundadores, desenvolvedores e empreendedores a encontrar os melhores canais para dar visibilidade aos seus projetos.
 
-## 📌 Critérios de Inclusão
+---
+
+## 🎃 Hacktoberfest 2026
+
+Este repositório participa ativamente do **Hacktoberfest**!
+
+### Diretrizes do Evento
+1. **Qualidade em Primeiro Lugar**: Contribuições devem ser úteis e relevantes (novas plataformas reais, correções de links quebrados, melhorias na interface ou scripts de automação).
+2. **Issues Disponíveis**: Temos 8 issues temáticas abertas prontas para serem trabalhadas (curadoria de IA, polos do Brasil, hubs de Portugal, melhorias na interface web, validação de links e CI).
+3. **Labels**:
+   - `hacktoberfest`: Marca a issue e PR como parte do evento.
+   - `good first issue`: Ideal para quem está começando.
+   - `curadoria`, `ui`, `automation`, `devtools`: Identificam a área técnica.
+4. **Trabalho em Duplicidade**: Comente na issue antes de começar para alinhamento.
+
+---
+
+## 📌 Critérios de Inclusão de Links
 
 Para mantermos a alta qualidade da curadoria, links sugeridos devem atender aos seguintes requisitos:
 
@@ -10,6 +27,7 @@ Para mantermos a alta qualidade da curadoria, links sugeridos devem atender aos 
 2. **Disponibilidade:** O site deve estar no ar e aceitar novos cadastros, submissões ou postagens ativas de usuários.
 3. **Sem Afiliados ou Encurtadores:** Não inclua links de afiliados, referências promocionais patrocinadas ou links encurtados (bit.ly, etc.). Use sempre a URL oficial direta.
 4. **Respeito às Categorias:** Adicione seu link na seção geográfica correta (Brasil 🇧🇷, Portugal 🇵🇹 ou Internacional 🌎) e na categoria temática adequada (Comunidades, Diretórios, Polos/Hubs, Imprensa, Aceleradoras, etc.).
+5. **Sincronismo com data.json:** Se você adicionar ou editar links no `README.md`, por favor atualize também a entrada correspondente no arquivo `data.json`.
 
 ---
 
@@ -25,10 +43,10 @@ Para mantermos a alta qualidade da curadoria, links sugeridos devem atender aos 
    ```bash
    git checkout -b add-nome-da-plataforma
    ```
-4. **Edite o arquivo `README.md`**:
-     ```markdown
-     * <a href="https://url-do-site.com/" target="_blank" rel="noopener noreferrer"><strong>Nome da Plataforma</strong></a> - Breve descrição objetiva de uma frase explicando o que é a plataforma e como ajuda na divulgação.
-     ```
+4. **Edite o arquivo `README.md` (e `data.json`)**:
+   ```markdown
+   * <a href="https://url-do-site.com/" target="_blank" rel="noopener noreferrer"><strong>Nome da Plataforma</strong></a> - Breve descrição objetiva de uma frase explicando o que é a plataforma e como ajuda na divulgação.
+   ```
 5. **Faça o Commit** das suas alterações com uma mensagem clara:
    ```bash
    git commit -m "feat(brasil): adiciona [Nome da Plataforma]"
@@ -37,7 +55,7 @@ Para mantermos a alta qualidade da curadoria, links sugeridos devem atender aos 
    ```bash
    git push origin add-nome-da-plataforma
    ```
-7. **Abra um Pull Request** no repositório original descrevendo brevemente o link adicionado e sua relevância.
+7. **Abra um Pull Request** no repositório original descrevendo brevemente o link adicionado e referenciando a issue relacionada (ex: `Fixes #2`).
 
 ---
 
